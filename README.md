@@ -63,22 +63,9 @@ The main objective is to build a reliable ML model that can identify misinformat
 
 ---
 
-## 🧾 Project Structure
-Fake-News-Detection/
-│
-├── data/
-│ └── train.csv
-│
-├── notebooks/
-│ └── fake_news_model.ipynb
-│
-├── README.md
-└── fake_news_detection.py
-
-
 ## 🧮 How to Run
 1. Clone this repository  
-   git clone https://github.com/<your-username>/Fake-News-Detection.git
+   git clone https://github.com/PallaviSatram/Fake-News-Detection-using-Logistic-Regression
    cd Fake-News-Detection
 2. Install dependencies
    pip install -r requirements.txt
