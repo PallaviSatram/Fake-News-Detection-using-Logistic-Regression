@@ -57,7 +57,6 @@ The main objective is to build a reliable ML model that can identify misinformat
 
 ## 🚀 Future Enhancements
 - Implement deep learning models (e.g., LSTM, BERT) for better accuracy  
-- Create a web interface using **Flask** or **Django** for real-time detection  
 - Integrate an API for easier model deployment  
 - Add dataset visualization dashboard  
 
